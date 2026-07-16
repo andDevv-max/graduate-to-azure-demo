@@ -5,7 +5,7 @@ import './App.css'
 function Home() {
   return (
     <section id="center">
-      <h1>Graduate to Azure - Demo App</h1>
+      <h1>Graduate to Azure - Demo App (preview test)</h1>
       <p>This is a throwaway Vite + React + Supabase app used to walk through the guide.</p>
       <p>Supabase env vars configured: <code>{String(supabaseConfigured)}</code></p>
       <nav>
